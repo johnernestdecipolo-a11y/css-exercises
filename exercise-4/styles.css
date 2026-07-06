@@ -1,0 +1,9 @@
+.avatar.proportioned {
+    inline-size: 200px;
+    block-size: 200px;
+}
+
+.avatar.distorted {
+    inline-size: 150px;
+    block-size: 300px;
+}
