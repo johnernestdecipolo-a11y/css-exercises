@@ -1,0 +1,13 @@
+.bnw, .colored {
+    font-size: 28px;
+    font-family: Arial, 'Times New Roman', sans-serif;
+}
+
+.bnw {
+    background: black;
+    color: white;
+}
+
+.colored {
+    background: yellow;
+}
