@@ -1,0 +1,27 @@
+body > * {
+    margin-bottom: 16px;
+}
+
+/* .odd, #element-2, #element-3, #element-4 {
+    margin-bottom: 16px;
+} */
+
+.odd {
+    background: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#element-2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.element-3 {
+    font-size: 24px;
+}
+
+#element-4 {
+    background: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
