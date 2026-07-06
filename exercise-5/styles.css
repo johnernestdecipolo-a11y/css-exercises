@@ -1,0 +1,10 @@
+.container {
+    margin-bottom: 20px;
+}
+
+.container .text {
+    background: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
