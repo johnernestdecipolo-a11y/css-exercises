@@ -1,0 +1,19 @@
+.red {
+    background: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.green {
+    background: green;
+    color: white;
+    font-size: 18px;
+}
+
+.orange { 
+    background: orange;
+    font-size: 18px;
+    border: none;
+}
